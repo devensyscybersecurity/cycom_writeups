@@ -3,7 +3,9 @@ title: "Mentions Légales"
 draft: false
 ---
 
-**Nom du site** : Open Cycom 2023 Writeups
+**Nom du site** : OpenCycom 2023 Writeups
+
+**Editeur du site** : Devensys Cybersecurity
 
 **Hébergeur** : Cloudflare France SAS
 
