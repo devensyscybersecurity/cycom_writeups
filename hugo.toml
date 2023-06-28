@@ -60,7 +60,7 @@ defaultContentLanguage = "fr"
 [languages]
   [languages.fr]
     languageName = "French"
-    title = "OpenCycom 2023 Writeups"
+    title = "CTF Writeups Cycom 2023 by Devensys Cybersecurity"
     subtitle = ""
     owner = ""
     keywords = ""
@@ -76,7 +76,7 @@ defaultContentLanguage = "fr"
     words = "mots"
 
     [languages.fr.params.logo]
-      logoText = "OpenCycom 2023 Writeups"
+      logoText = "CTF Writeups Cycom 2023 by Devensys Cybersecurity (ex-OpenCycom)"
       logoHomeLink = "/"
     [languages.fr.menu]
       [[languages.fr.menu.main]]
