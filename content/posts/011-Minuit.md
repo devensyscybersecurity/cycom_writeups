@@ -11,6 +11,8 @@ draft: false
 
 +1 fichier attaché `minuit.mid`
 
+*Ce challenge a été résolu par 16,6% des équipes.*
+
 ## Solution
 
 On est ici en face d'un fichier .mid, une inspection rapide avec file nous permet de voir qu'il s'agit d'un fichier MIDI, un format de description musicale qui comporte entres autres des notes avec leurs octaves, ainsi qu'une donnée temporelle, pour savoir quand elles sont jouées et à quelle vitesse.

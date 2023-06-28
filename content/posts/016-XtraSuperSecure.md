@@ -9,6 +9,8 @@ draft: false
 ## Énoncé
 Donnez votre avis sur l'évènement (et essayez de voler les cookies de l'administrateur) !
 
+*Ce challenge a été résolu par 8,3% des équipes.*
+
 ## Solution
 
 Bon, je dois voler les cookies de l'admin, donc on est surement face à des attaques côté client (XSS ou CSRF). Le titre du chall nous donne également un indice sur la vulnérabilité à exploiter (XtraSuperSecure => XSS).

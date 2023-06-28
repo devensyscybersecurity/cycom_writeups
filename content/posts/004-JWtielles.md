@@ -10,6 +10,7 @@ draft: false
 ## Enoncé
 ```mmmmmmmmmmm les bonnes tielles...... 🤤```
 
+*Ce challenge a été résolu par 8,3% des équipes.*
 
 ## Solution
 Le challenge commence sur un super site de tielles `miam`.

@@ -12,6 +12,8 @@ Je suis tombé sur ce site au hasard, j'ai bien fait mes recherches et je n'ai p
 
 **Ce challenge est fortement inspiré du wargame de `leHack 2022`.**
 
+*Ce challenge a été résolu par 0% des équipes.*
+
 ## Solution
 
 Il n'y a pas grand-chose sur ce site, juste une sélection de photos stock pas très intéressantes.

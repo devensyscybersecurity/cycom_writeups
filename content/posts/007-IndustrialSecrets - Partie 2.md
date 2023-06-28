@@ -10,6 +10,8 @@ draft: false
 
 Un accès à un serveur FTP a été obtenu, est-il possible d'extraite de cet accès des informations sensibles ?
 
+*Ce challenge a été résolu par 41.6% des équipes.*
+
 ## Vulnérabilités
 
 L'utilisation du FTP n'est pas sécurité de par son fonctionnement de base. L'ouverture de port est brute-forcable, et il est possible (selon le mode de fonctionnement actuel) de voler le fichier ou interchanger le fichier téléchargé. Si le chiffrement est activé, i est également possible que le chiffrement ne soit activé uniquement sur la partie contrôle et non données..

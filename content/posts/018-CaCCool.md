@@ -12,6 +12,8 @@ Un petit exercice de reverse, à vos Ghidra !
 ## Solution
 Deux solutions pour ce chall, une statique et une dynamique.
 
+*Ce challenge a été résolu par 16,6% des équipes.*
+
 ### Solution dynamique
 
 C'est clairement la plus simple des deux, car il suffit d'utiliser `ltrace` pour voir tout appel vers des bibliothèques externes lors de l'exécution. Et donc le flag, lorsqu'il est traité par ces dernières. Cela est uniquement possible lorsque le programme utilise du linkage dynamique.

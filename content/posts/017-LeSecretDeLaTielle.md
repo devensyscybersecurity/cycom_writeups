@@ -11,6 +11,8 @@ draft: false
 
 Le challenge est sous la forme d'une image disque. L'objectif est de récupérer le contenu d'un fichier sensible contenu sur ce disque.
 
+*Ce challenge a été résolu par 83,3% des équipes.*
+
 ## Solution
 
 Dans un premier temps, l'image doit être extraite du zip. 

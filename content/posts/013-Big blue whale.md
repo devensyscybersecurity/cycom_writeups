@@ -10,6 +10,8 @@ draft: false
 
 Un accès à un repository interne d'image docker a été obtenu. Quelles données peuvent être extraites.
 
+*Ce challenge a été résolu par 70,8% des équipes.*
+
 ## Vulnérabilités
 
 Les développeurs ont supposé que les métadonnées de l'image du conteneur docker, dont les étapes de constructions, étaient secrètes ou illisibles. Or ce n'est pas le cas. Si des variables d'environnement sont assignées dans le Dockerfile même temporairement, elles sont visibles en tant qu'étape.

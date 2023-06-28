@@ -10,6 +10,7 @@ draft: false
 
 La page du challenge représente une page de statistiques d'une chaudière. Ces données sont stockées sur une base de données externe, l'objectif est d'extraire des informations sensibles de cette même base de données avec comme seul point d'entrée, cette page et son paramètre ID.
 
+*Ce challenge a été résolu par 0% des équipes.*
 
 ## Vulnérabilités
 

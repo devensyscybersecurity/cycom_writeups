@@ -13,6 +13,8 @@ Je doute quand même de la robustesse de la méthode que j'ai employée, tu peux
 
 *le flag se trouve dans le fichier* `/flag`
 
+*Ce challenge a été résolu par 8,3% des équipes.*
+
 ## Solution
 
 Une sandbox JavaScript ! Elle me permet de jouer avec JS et d'apprendre à programmer.

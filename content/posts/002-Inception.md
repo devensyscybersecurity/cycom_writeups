@@ -14,6 +14,8 @@ En effet, un simple serveur web n'est souvent pas accessible directement et pass
 
 Ce site web en cours de développement n'est pas situé directement là où il semble être, et une authentification est utilisée sur le chemin réseau jusqu'au serveur web final.
 
+*Ce challenge a été résolu par 4.2% des équipes.*
+
 ## Vulnérabilités
 
 La fonctionnalité de debug HTTP `TRACE` est parfois activée, c'est le cas par défaut notamment sur le serveur Apache2. Cette méthode HTTP renvoie la requête telle qu'elle a été reçue. Si des informations d'authentification sont insérées par un intermédiaire dans notre requête HTTP, ces dernières nous seront retournées par cette fonctionnalité.

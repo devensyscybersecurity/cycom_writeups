@@ -13,6 +13,8 @@ Le challenge Usurpception se présente sous la forme d'un accès SSH à ce qui e
 
 L'objectif est d'élever les privilèges de l'utilisateur fourni (devensept) et de lire le flag contenu dans un fichier à la racine du disque. Ce fichier n'est lisible que par root.
 
+*Ce challenge a été résolu par 29,1% des équipes.*
+
 ## Vulnérabilités
 
 La première vulnérabilité n'a aucun rapport avec ces services en fonctionnement, lors des recherches de composant vulnérables, on trouve que des fichiers sont disponibles dans le dossier usuel `/usr/local`. Ce dossier contient par convention des scripts spécifiques à la machine ou ce déploiement.

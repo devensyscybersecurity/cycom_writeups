@@ -11,6 +11,7 @@ draft: false
 
 Le challenge simule un logiciel industriel rudimentaire sous la forme d'une console interactive d'administration. L'objectif est d'élever nos privilèges pour obtenir des données sensibles.
 
+*Ce challenge a été résolu par 66,6% des équipes.*
 
 ## Vulnérabilités
 

@@ -10,6 +10,8 @@ draft: false
 
 Je viens de développer mon site gallery, un ami m'a conseillé de mettre à jour mon serveur, mais tout fonctionne chez moi..
 
+*Ce challenge a été résolu par 54,1% des équipes.*
+
 ## Solution
 
 La clé de ce challenge est de ne pas se laisser emporter par toutes les images qu'on voit dans la galerie, elles ne servent à rien, car on est bien sûr un challenge web.

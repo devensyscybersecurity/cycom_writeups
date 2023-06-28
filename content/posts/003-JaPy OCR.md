@@ -13,6 +13,8 @@ On m'a montré cette app géniale qui permet de transformer une image en texte, 
 
 *Le flag est stocké dans une variable d'environnement.*
 
+*Ce challenge a été résolu par 4,2% des équipes.*
+
 ## Solution
 On est en face d'une application d'OCR plutôt très sommaire : On peut submit une image avec du texte, le programme lit l'image et nous donne le résultat.
 
