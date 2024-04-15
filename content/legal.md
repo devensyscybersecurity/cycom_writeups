@@ -3,7 +3,7 @@ title: "Mentions Légales"
 draft: false
 ---
 
-**Nom du site** : OpenCycom 2023 Writeups
+**Nom du site** : Cycom CTF Writeups
 
 **Editeur du site** : Devensys Cybersecurity
 
@@ -11,6 +11,6 @@ draft: false
 
 **Adresse de l’hébergeur** : 6 PL DE LA MADELEINE 75008 PARIS
 
-**Source du site** : [Github](https://github.com/devensyscybersecurity/writeups_2023)
+**Source du site** : [Github](https://github.com/devensyscybersecurity/cycom_writeups)
 
 Les mentions légales complètes sont disponibles [ici](https://www.devensys.com/legal)

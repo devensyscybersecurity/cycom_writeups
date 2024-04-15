@@ -3,7 +3,7 @@ languageCode = "fr-fr"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
 theme = "terminal"
-paginate = 20
+paginate = 22
 defaultContentLanguage = "fr"
 
 [params]
@@ -60,7 +60,7 @@ defaultContentLanguage = "fr"
 [languages]
   [languages.fr]
     languageName = "French"
-    title = "CTF Writeups Cycom 2023 by Devensys Cybersecurity"
+    title = "Cycom CTF Writeups by Devensys Cybersecurity"
     subtitle = ""
     owner = ""
     keywords = ""
@@ -69,14 +69,14 @@ defaultContentLanguage = "fr"
     readMore = "Lire plus"
     readOtherPosts = "Lire les autres posts"
     newerPosts = "Posts plus récents"
-    olderPosts = "Posts plus anciens"
+    olderPosts = "Années précédentes"
     missingContentMessage = "Page non trouvée..."
     missingBackButtonLabel = "Retour à la page principale"
     minuteReadingTime = "minutes de lecture"
     words = "mots"
 
     [languages.fr.params.logo]
-      logoText = "CTF Writeups Cycom 2023 by Devensys Cybersecurity (ex-OpenCycom)"
+      logoText = "Cycom CTF Writeups by Devensys Cybersecurity"
       logoHomeLink = "/"
     [languages.fr.menu]
       [[languages.fr.menu.main]]
