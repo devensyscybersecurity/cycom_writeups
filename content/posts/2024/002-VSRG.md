@@ -9,6 +9,8 @@ draft: false
 ## Énoncé
 On m'a donné ce fichier, en me disant qu'il provenait d'un VSRG. J'ai aucune idée ce que c'est, tu pourrais arriver à l'ouvrir ?
 
+*Fichier attaché :* [`mxm.ksh`](/files/mxm.ksh)
+
 ## Solution
 
 VSRG est l'accronyme pour "Vertical Scrolling Rhythm Game".

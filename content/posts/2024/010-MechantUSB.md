@@ -13,6 +13,8 @@ J'ai trouvé une grosse clé USB par terre un peu plus loin. J'ai ensuite captur
 
 Tu pourrais arriver à décoder le contenu et à trouver le malware ?
 
+*Fichier attaché :* [`capture.pcapng`](/files/capture.pcapng)
+
 *Format flag :* **CYCOM{hash_md5_du_malware}**
 
 **Fichier attaché** : capture.pcapng

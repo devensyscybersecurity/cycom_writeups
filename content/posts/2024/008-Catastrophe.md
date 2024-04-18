@@ -15,6 +15,8 @@ Peux tu décoder le message pour tenter de trouver sa provenance ?
 
 *Format flag :* **CYCOM{Nom_de_la_station_emmetrice}**
 
+*Fichier attaché :* [`recording.wav`](/files/recording.wav)
+
 **IMPORTANT** : Ce signal ne doit être diffusé **SOUS AUCUN PRETEXTE** et encore moins sur le territoire américain. La diffusion d'un signal d'alarme factice tel que celui-ci est une très mauvaise idée et est probalement (je suis pas expert juridique, lol) puni par la loi. Ni l'auteur, ni Devensys Cybersecurity ne peuvent être tenus responsables en cas de diffusion de ce message.
 
 ## Solution

@@ -11,6 +11,8 @@ J'ai fait une sauvegarde d'une photo... très importante... dans un zip chiffré
 
 Tu pourrais m'aider à le retrouver ? Je crois qu'il était pas trop compliqué.
 
+*Fichier attaché :* [`cycom.zip`](/files/cycom.zip)
+
 ## Solution
 Allez, un zip chiffré pour se mettre en jambe. A la vue du titre et de l'énoncé, je pense qu'on peut commencer par une attaque dictionnaire classique.
   
