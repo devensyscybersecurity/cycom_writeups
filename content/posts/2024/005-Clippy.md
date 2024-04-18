@@ -14,8 +14,6 @@ J'ai un doute dans le choix de l'algorithme de chiffrement, tu pourrais vérifie
 
 Vole les secrets du compte "cycom".
 
-
-
 ## Solution
 L'application Clippy nous permet de créer un nouveau coffre, ou bien de se connecter avec un token d'accès.
 

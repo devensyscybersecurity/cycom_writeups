@@ -17,7 +17,6 @@ Tu pourrais arriver à décoder le contenu et à trouver le malware ?
 
 *Format flag :* **CYCOM{hash_md5_du_malware}**
 
-**Fichier attaché** : capture.pcapng
 ## Solution
 On se retrouve avec un fichier de capture de paquets qu'on peut ouvrir avec Wireshark.
 
