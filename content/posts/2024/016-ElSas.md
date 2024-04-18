@@ -11,7 +11,7 @@ Un petit dump mémoire pour s'échauffer ! Trouvez le mot de passe de l'utilisat
 
 *Format flag :* **CYCOM{mot_de_passe}**
 
-*Fichier attaché :* [`lsass.DMP`](/files/lsass.DMP)
+*Fichier attaché :* [`lsass.DMP`](/files/lsass.zip)
 
 ## Solution
 On est en face d'un dump du processus LSASS de Windows, qui est chargé de garder précieusement de mémoire certaines informations secrètes, commes des identifiants par exemple.
